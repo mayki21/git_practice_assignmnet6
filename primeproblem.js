@@ -5,7 +5,11 @@ for (var i = 1; i <= num; i++) {
     counter++;
   }
 }
+
+if (count == 2) {
+
 if (counter == 2) {
+
   console.log("Prime Number");
 }
 else {
